@@ -1,4 +1,4 @@
-# CaloriesX
+# CaloriesX (Calories Burnt Predictor)
 
 This model uses XGBoost (eXtreme Gradient Boosting) to predict the number of calories burned based on various input features. XGBoost is an efficient and scalable implementation of gradient boosted decision trees, which is well-suited for regression tasks like predicting calorie burn.
 
