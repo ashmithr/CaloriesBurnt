@@ -2,7 +2,7 @@
 
 This model uses XGBoost (eXtreme Gradient Boosting) to predict the number of calories burned based on various input features. XGBoost is an efficient and scalable implementation of gradient boosted decision trees, which is well-suited for regression tasks like predicting calorie burn.
 
-🌟 Input features: Likely include factors such as duration of exercise, type of activity, heart rate, age, gender, weight, and height.
+🌟 Input features: Includes factors such as duration of exercise, type of activity, heart rate, age, gender, weight, and height.
 
 📊 Output: Predicted number of calories burned.
 
@@ -14,5 +14,5 @@ This model uses XGBoost (eXtreme Gradient Boosting) to predict the number of cal
 
 🎯 Hyperparameter tuning: To optimize performance, parameters like learning rate, tree depth, and number of estimators would be tuned.
 
-📏 Evaluation: Metrics like Mean Squared Error (MSE) or Root Mean Squared Error (RMSE) would likely be used to assess the model's accurac
+📏 Evaluation: Metrics like Mean Squared Error (MSE) or Root Mean Squared Error (RMSE) are used to assess the model's accuracy
 
